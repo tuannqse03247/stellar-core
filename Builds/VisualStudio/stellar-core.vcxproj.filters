@@ -471,6 +471,9 @@
     <ClCompile Include="..\..\src\overlay\PeerAuth.cpp">
       <Filter>overlay</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\src\overlay\PeerSharedKeyId.cpp">
+      <Filter>overlay</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\src\crypto\ECDH.cpp">
       <Filter>crypto</Filter>
     </ClCompile>
@@ -1185,6 +1188,9 @@
       <Filter>ledger\tests</Filter>
     </ClInclude>
     <ClInclude Include="..\..\src\overlay\PeerAuth.h">
+      <Filter>overlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\src\overlay\PeerSharedKeyId.h">
       <Filter>overlay</Filter>
     </ClInclude>
     <ClInclude Include="..\..\src\crypto\ECDH.h">
